@@ -11,13 +11,14 @@ as seguintes informações:
 - Data da compra
 
 
-### API 
+## API 
 
-Foi desenvolvida uma API para consumo e a mesma foi publicada em: https://jc-api-fake.herokuapp.com/
+Foi desenvolvida uma API para consumo e a mesma foi publicada em: https://jc-api-fake.herokuapp.com/ <br/>
 A mesma possui duas URI:
 - **/users**
 - **/financas**
 
+<br/>
 
 ### `Dados para Teste`
 1. Login: juan
@@ -25,23 +26,31 @@ A mesma possui duas URI:
 
 Esse usuário já possui vários despesas cadastradas.
 
+<br/>
+
 ### `Tela de Login`
 
 ![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/login.jpeg)
+
+<br/>
 
 ### `Cadastro de Usuário`
 
 ![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/cadastro_usuario.jpeg)
 
+<br/>
 
 ### `Listagem de Despesas`
 
 ![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/listagem_despesa.jpeg)
 
+<br/>
+
 ### `Cadastro de Despesa`
 
 ![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/cadastro_despesa.jpeg)
 
+<br/>
 
 ### `Execução do projeto`
 
@@ -49,4 +58,3 @@ Esse usuário já possui vários despesas cadastradas.
 2. Executar a instrução: **yarn start**
 3. Fazer o download do app Expo da store de seu dispositivo
 4. Escanear o **QR Code**
-
