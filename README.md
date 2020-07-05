@@ -11,7 +11,7 @@ as seguintes informações:
 - Data da compra
 
 
-![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/login.jpeg){:height="300px" width="300px"}.
+![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/login.jpeg)<!-- .element height="50%" width="50%" -->
 
 
 ### `yarn start`
