@@ -1,8 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto com React Native + Expo
 
-## Available Scripts
+## Minhas Despesas
 
-In the project directory, you can run:
+O app se propõe a ajudar o usuário a ter um maior controle sobre suas despesas. Nele o usuário pode cadastrar suas despesas e também visualizar
+as seguintes informações:
+
+- Nome
+- R$ Valor
+- Quantidade de parcelas
+- Data da compra
+
+
+![Tela de Login](https://github.com/juancarllos88/minhas-despesas/blob/master/src/fotos/login.jpeg)
+
 
 ### `yarn start`
 
